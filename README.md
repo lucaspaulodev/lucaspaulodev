@@ -1,1 +1,1 @@
-# Hi, everyone! I'm Lucas Paulo ! 👋🏼
+# Hi, i'm Lucas Paulo ! 👋🏼
