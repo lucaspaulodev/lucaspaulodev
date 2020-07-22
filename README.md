@@ -8,7 +8,7 @@
 
 <ul>
   <li>📚 I am currently improving my knowledge of fullstacak development using javascript technologies.</li>
-  <li>👨🏻‍🎓 I'm currently graduating from information systems.</li>
+  <li>👨🏻‍🎓 I am currently majoring in information systems at college.</li>
   <li>🕹 I like games, animes and politics</li>
 </ul>
 
