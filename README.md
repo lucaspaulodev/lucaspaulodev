@@ -6,7 +6,14 @@
 
 ## About me
 
-📚 I'm currently improving my knowledge in fullstcak development.
+<ul>
+  <li>📚 I'm currently improving my knowledge in fullstcak development.</li>
+  <li>👨🏻‍🎓 I'm currently graduating from information systems.<li/>
+  <li>🕹I like games, animes and politics</li>
+</ul>
+
+
+
 
 
 
