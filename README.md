@@ -7,9 +7,9 @@
 ## About me
 
 <ul>
-  <li>📚 I'm currently improving my knowledge in fullstcak development.</li>
+  <li>📚 I am currently improving my knowledge of fullstacak development using javascript technologies.</li>
   <li>👨🏻‍🎓 I'm currently graduating from information systems.</li>
-  <li>🕹I like games, animes and politics</li>
+  <li>🕹 I like games, animes and politics</li>
 </ul>
 
 
