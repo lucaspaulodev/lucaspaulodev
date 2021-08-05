@@ -22,7 +22,7 @@
 <img align="left" alt="Javascript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Typescript" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
 <img align="left" alt="React" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
-<img align="left" alt="Nodejs" width="24px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
+<img align="left" alt="Nodejs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="26"/>
 <img align="left" alt="Docker" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="PostgreSQL" width="24px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 
