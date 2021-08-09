@@ -7,15 +7,11 @@
 ## About me
 
 <ul>
+  <li>👨🏻‍💻 I'm currently working with WEB/Mobile development with React and React Native technologies.</li>
   <li>📚 I'm currently improving my knowledge of fullstacak development using javascript technologies.</li>
   <li>👨🏻‍🎓 I'm currently majoring in information systems at college.</li>
-  <li>🕹 I like games, animes and politics</li>
+  <li>🕹 I like games, animes and music</li>
 </ul>
-
-
-
-
-
 
 # Languages and Tools ⚙
 
