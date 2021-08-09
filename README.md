@@ -2,6 +2,7 @@
 
 <center>
         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulodev&hide=html&layout=compact&theme=dark" />
+        <br/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspaulodev&theme=dark&show_icons=true&count_private=true&hide=issues" />
 </center>
 
