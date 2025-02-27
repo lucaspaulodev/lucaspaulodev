@@ -50,9 +50,6 @@
   <a href="https://linkedin.com/in/lucaspaulodev">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/lucaspaulodev">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
-  </a>
 </div>  
 
 ---
