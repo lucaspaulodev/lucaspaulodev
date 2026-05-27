@@ -31,9 +31,9 @@ Senior engineer with 5+ years shipping production web and mobile apps for teams 
 
 ### Currently
 
-- 🛠 **Senior Frontend @ [Arena.im](https://arena.im) / MyAvatar.ai** — leading frontend for an AI-avatar platform (Gemini-generated video, ElevenLabs voice cloning) and building widgets/dashboards that ship inside **ESPN, Reuters, and Fox Sports**.
+- 🛠 **Senior Frontend @ [Arena.im](https://arena.im) / MyAvatar.ai** — frontend for an AI first Avatar platform and building widgets that ship inside **ESPN, Reuters, and Fox Sports**.
 - 📡 Wiring product telemetry with **RudderStack + Datadog + Intercom** to turn user behavior into roadmap decisions.
-- 📚 Sharpening: **AI SDK v5** (AI Hero) and **Three.js Journey**.
+- 🤖 Daily driver for **Claude Code** as a pair-programming agent — planning, refactors, code review, and one-shot scripts straight from the terminal.
 
 ### Experience
 
@@ -77,11 +77,22 @@ Senior engineer with 5+ years shipping production web and mobile apps for teams 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 </p>
 
-**AI, Tooling & Infra**
+**AI — building with & building alongside**
 
 <p>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-4B4BFF?style=flat&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
+</p>
+
+**Tooling & Infra**
+
+<p>
   <img src="https://img.shields.io/badge/RudderStack-F47216?style=flat&logo=rudderstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -91,6 +102,15 @@ Senior engineer with 5+ years shipping production web and mobile apps for teams 
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
+
+### How I work with AI
+
+I treat AI as a teammate, not a magic wand. Day-to-day that means:
+
+- **Claude Code in the terminal** for planning, refactors across large diffs, generating tests, and reviewing PRs before I ship them.
+- **Building with LLM APIs** in production — Gemini for video/avatar generation and ElevenLabs for voice cloning at Arena.im / MyAvatar.ai, with the Vercel AI SDK for streaming UI.
+- **Custom agents & slash commands** scoped to repo conventions, so the model follows the codebase's rules instead of inventing its own.
+- **MCP servers** to give agents access to project context, design files, and internal data sources.
 
 ---
 
